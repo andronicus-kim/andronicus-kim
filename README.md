@@ -8,7 +8,7 @@
 
 Android Engineer based in Nairobi, Kenya.
 
-- A Strong believer in autonomy, collaboration and cross-pollination for high performing teams
+- Strong believer in autonomy, collaboration and cross-pollination for high performing teams
 - Currently transforming business environments through Android Apps from the comfort of my home
 - In my free time, I contribute to open source projects and catch up with the latest in the Android ecosystem.
 
