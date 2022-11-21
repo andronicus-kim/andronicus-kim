@@ -6,10 +6,10 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am an Android Engineer based in Nairobi, Kenya.
+Android Engineer based in Nairobi, Kenya.
 
 - A Strong believer in autonomy, collaboration and cross-pollination for high performing teams
-- Currently transforming business environements through Android Apps from the comfort of my home
+- Currently transforming business environments through Android Apps from the comfort of my home
 - In my free time, I contribute to open source projects and catch up with the latest in the Android ecosystem.
 
 ---
